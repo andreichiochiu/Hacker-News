@@ -1,6 +1,6 @@
 # Hacker News
 
-FAst API with in mem cache for simple implementation, in real production project we would use disitrbuted cache like REDIS
+FAst API with in mem cache for simple implementation, in real production project we would use disitrbuted cache like REDIS, memcache, etc
 
 ### Logging
 
@@ -12,4 +12,4 @@ build project and press F5 or open exe file, then in borwser go to https://local
 
 ##### Notes
 
-For simplicity, I considered the number of kids = nuober of reviews.
+For simplicity, I considered the number of kids = number of reviews.
