@@ -1,0 +1,6 @@
+{
+  "domain": "hacker-news.firebaseio.com",
+  "version": "v0",
+  "stories_path": "beststories.json",
+  "story_path": "item/{id}.json"
+}
